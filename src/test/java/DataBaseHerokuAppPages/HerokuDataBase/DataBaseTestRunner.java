@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/ResourceJug",
         plugin = {"html:target/cucumber"},
-        tags = "@GOOGLE",
+        tags = "@ANITA",
         monochrome = true
 
 
